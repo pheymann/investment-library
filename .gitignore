@@ -1,0 +1,9 @@
+target
+.bloop/
+.metals/
+.vscode/
+project/project/
+*.code-workspace
+metals.sbt
+.idea/
+.ammonite/
